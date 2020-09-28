@@ -11,7 +11,7 @@ The global hospitality industry acts as a useful indicator for the global econom
 
 <br><br>
 
-[Report](./Report.pdf)
+[<h2>Report</h2>](./Report.pdf)
 
 <br>
 
